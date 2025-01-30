@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "name": "LayerEdge",
+  "version": "1.0.0",
+  "description": "Auto Running Node LayerEdge",
+  "main": "main.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "@airdropinsidersid",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "chalk": "^5.4.1",
+    "ethers": "^6.13.5",
+    "https-proxy-agent": "^7.0.6",
+    "socks-proxy-agent": "^8.0.5"
+  }
+}
